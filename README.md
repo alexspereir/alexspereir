@@ -3,10 +3,6 @@
 - Atualmente estou buscando uma oportunidade para entrar na área de desenvolvimento web.
 - Estou estudando Javascript e PHP por enquanto, futuramente pretendo aprender MySql e alguma FrameWork.
 
-<div>
-  <a href="https://github.com/alexspereir">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexspereir&layout=compact&theme=dark">
-</div>
 <br>
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
